@@ -14,6 +14,11 @@
 #### using creo we designed a ball bearing.
 #### The parts of ball bearing are
 ![](https://github.com/Aryaahh/intenship/blob/main/Screenshot%202024-01-25%20123437%20(1).png)
-![]()
-
+![](https://github.com/Aryaahh/intenship/blob/main/Screenshot%202024-01-25%20123454.png)
+#### studied the working and programming of arc welding robot
+# DAY 4
+#### Work from home created the report of internship
+# DAY 5
+#### Iv
+#### Visited metal industry and plastic industry(vijaya polymers)
 
