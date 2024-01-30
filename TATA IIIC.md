@@ -7,4 +7,6 @@
 # DAY 2
 #### Learned to programing of a pick and place robot done an online assessment course on Yaskawa Safety Principles
 [certificate](https://github.com/Aryaahh/intenship/blob/main/MTEC%20CertificateAbsorbFields.pdf)
-#### Learn to use creo. and tools taps menus and shapes later designed a basic shape in creo
+#### Learn to use creo. and tools taps menus and shapes later designed a basic shape in creo.
+### The shape designed is 
+![]()
