@@ -8,5 +8,12 @@
 #### Learned to programing of a pick and place robot done an online assessment course on Yaskawa Safety Principles
 [certificate](https://github.com/Aryaahh/intenship/blob/main/MTEC%20CertificateAbsorbFields.pdf)
 #### Learn to use creo. and tools taps menus and shapes later designed a basic shape in creo.
-### The shape designed is 
+#### The shape designed is 
+![](https://github.com/Aryaahh/intenship/blob/main/IMG-20240130-WA0002.jpg)
+# DAY3
+#### using creo we designed a ball bearing.
+#### The parts of ball bearing are
 ![]()
+![]()
+
+
