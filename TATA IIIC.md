@@ -13,7 +13,7 @@
 # DAY3
 #### using creo we designed a ball bearing.
 #### The parts of ball bearing are
-![]()
+![](https://github.com/Aryaahh/intenship/blob/main/Screenshot%202024-01-25%20123437%20(1).png)
 ![]()
 
 
